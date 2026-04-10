@@ -40,7 +40,7 @@ This project applies the **Variational Quantum Eigensolver (VQE)** algorithm to 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vanix056/VQE.git
+git clone https://github.com/MAbdullahWaqar/VQE.git
 cd VQE
 
 # 2. Create and activate a virtual environment
@@ -199,8 +199,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**vanix056**  
+**Muhammad Abdullah Waqar**  
 Quantum Computing & Computational Nuclear Physics Researcher  
-GitHub: [@vanix056](https://github.com/vanix056)
+GitHub: [@MAbdullahWaqar](https://github.com/MAbdullahWaqar)
 
 > *Research article: "Quantum Computing for Nuclear Binding Energies: Medium-Heavy Nuclei"*
